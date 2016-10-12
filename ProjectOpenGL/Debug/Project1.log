@@ -1,0 +1,35 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(177): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(192): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(193): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(196): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(197): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(402): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(403): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(406): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(407): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(420): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(421): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(424): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(425): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(451): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(452): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(453): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(454): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(455): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(456): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(457): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(460): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(461): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(462): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(463): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(464): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(465): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(554): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(590): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(674): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\project1\project1\source.cpp(687): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  imageloader.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)
